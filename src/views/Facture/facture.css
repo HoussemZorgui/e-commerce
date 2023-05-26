@@ -1,0 +1,41 @@
+.facture {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .facture h2 {
+    font-size: 1.5rem;
+    margin-top: 0;
+  }
+  
+  .info-facture {
+    margin-bottom: 20px;
+  }
+  
+  .info-facture p {
+    margin: 0;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table th,
+  table td {
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  table th {
+    background-color: #eee;
+  }
+  
+  .total {
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: right;
+  }
+  
