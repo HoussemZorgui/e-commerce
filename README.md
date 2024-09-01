@@ -1,4 +1,4 @@
-# ⚡ Electro: Your Go-To E-Commerce for Electronics ⚡
+<centre># ⚡ Electro: Your Go-To E-Commerce for Electronics ⚡</centre>
 
 ### 
 <h3 align="center">Welcome to Electro, your premier destination for buying and selling electronics online!</h3>
