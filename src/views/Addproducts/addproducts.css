@@ -1,0 +1,45 @@
+.category_item{
+    padding: 15px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: 15px;
+}
+.cat_item{
+    height: 50px;
+    width: 50px;
+}
+.category_selected{
+    background-color: rgb(136, 130, 233);
+    color: white;
+}
+.uploadinput{
+    padding: 20px;
+    border: 1px solid lightgray;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    cursor: pointer;
+}
+.image_item{
+    position: relative;
+}
+.image_item img{
+    border-radius: 10px;
+    font-size: 50px;
+}
+.la-times-circle{
+    position: absolute;
+    color: #CA1515;
+    right: 15px;
+    font-size: 20px;
+    margin: 4px;
+    cursor: pointer;
+}
