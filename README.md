@@ -4,7 +4,7 @@
 <h3 align="center">Welcome to Electro, your premier destination for buying and selling electronics online!</h3>
 
 <div align="center">
-  <img height="150" src="https://example.com/your-logo.png" alt="Electro Logo" />
+  <img height="150" src="https://postimg.cc/vc3ZS1fJ" alt="Electro Logo" />
 </div>
 
 ### 👩‍💻 About Us
