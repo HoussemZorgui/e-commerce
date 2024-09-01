@@ -34,8 +34,8 @@ We envision Electro as the leading e-commerce site for electronics, where innova
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
 </div>
-
-
+<br>
+<br>
 <img width="1399" alt="Screenshot 2024-09-01 at 5 00 25 PM" src="https://github.com/user-attachments/assets/d521a12d-2844-48e2-8254-fc3d1d61ec30">
 <img width="1399" alt="Screenshot 2024-09-01 at 5 00 48 PM" src="https://github.com/user-attachments/assets/21aeee4e-11d9-4ddd-92b1-2075aa88a912">
 <img width="1398" alt="Screenshot 2024-09-01 at 5 01 05 PM" src="https://github.com/user-attachments/assets/83fec78f-aa2d-41ad-9599-7b8d8d74ec8a">
