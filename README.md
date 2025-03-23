@@ -9,6 +9,7 @@
 
 ### 👩‍💻 About Us
 
+
 Electro is an innovative e-commerce platform designed for the electronic age. Our team is passionate about technology and dedicated to providing a seamless shopping experience for electronics enthusiasts. We aim to bring you the latest in computers, phones, and more, with a focus on quality and customer satisfaction.
 
 ### 🚀 Our Mission
